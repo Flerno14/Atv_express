@@ -1,0 +1,11 @@
+*{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: brown;
+    font-size: 5rem;
+}
